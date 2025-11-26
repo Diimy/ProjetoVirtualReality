@@ -9,6 +9,26 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.3.0b10\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoVirtualReality\\Library\\PackageCache\\com.unity.2d.sprite@ee8d95778bc9",
+      "fingerprint": "ee8d95778bc93b93d9627cabad1c44d5b6e964d8",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ai.navigation@2.0.9": {
+      "name": "com.unity.ai.navigation",
+      "displayName": "AI Navigation",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoVirtualReality\\Library\\PackageCache\\com.unity.ai.navigation@5218e4bf7edc",
+      "fingerprint": "5218e4bf7edc04fcad4ed3836c1c41aef334b996",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.0.9",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.feature.development@1.0.2": {
       "name": "com.unity.feature.development",
       "displayName": "Engineering",
@@ -78,23 +98,23 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.xr.arfoundation@6.3.0": {
+    "com.unity.xr.arfoundation@6.3.1": {
       "name": "com.unity.xr.arfoundation",
       "displayName": "AR Foundation",
-      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoVirtualReality\\Library\\PackageCache\\com.unity.xr.arfoundation@eb22901894ff",
-      "fingerprint": "eb22901894ff61f03cb5e2592a25f1668dbd3af9",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoVirtualReality\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a",
+      "fingerprint": "f2cbfcba674a47c7c36be501fc6974131f9ee257",
       "editorCompatibility": "6000.0.0a1",
-      "version": "6.3.0",
+      "version": "6.3.1",
       "source": "registry",
       "testable": false
     },
-    "com.unity.xr.hands@1.7.0": {
+    "com.unity.xr.hands@1.7.1": {
       "name": "com.unity.xr.hands",
       "displayName": "XR Hands",
-      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoVirtualReality\\Library\\PackageCache\\com.unity.xr.hands@1ef7cf2a82e4",
-      "fingerprint": "1ef7cf2a82e4186324e66087095061a355ea6e93",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoVirtualReality\\Library\\PackageCache\\com.unity.xr.hands@7bcbb3f89c3d",
+      "fingerprint": "7bcbb3f89c3d5aabd579be6f99ecc48240b37744",
       "editorCompatibility": "2021.3.0a1",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "source": "registry",
       "testable": false
     },
@@ -115,6 +135,16 @@
       "fingerprint": "574ebfb1e9766bb5f6bdb255c6abfb195b43f4cb",
       "editorCompatibility": "2022.3.0a1",
       "version": "4.5.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.meta-openxr@2.3.0": {
+      "name": "com.unity.xr.meta-openxr",
+      "displayName": "Unity OpenXR Meta",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoVirtualReality\\Library\\PackageCache\\com.unity.xr.meta-openxr@a8b13ad920dd",
+      "fingerprint": "a8b13ad920dde02e45d207de8c654a93273a6b3f",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.3.0",
       "source": "registry",
       "testable": false
     },
@@ -433,6 +463,16 @@
       "fingerprint": "9535ff2c27ac3e8dfb63877c36641a1cc1a48c14",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.1.13",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.compositionlayers@2.2.0": {
+      "name": "com.unity.xr.compositionlayers",
+      "displayName": "XR Composition Layers",
+      "resolvedPath": "C:\\Users\\dimit\\Documents\\GitHub\\ProjetoVirtualReality\\Library\\PackageCache\\com.unity.xr.compositionlayers@08f04b171ba1",
+      "fingerprint": "08f04b171ba16292eefabf638959f7d59f1e321b",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "2.2.0",
       "source": "registry",
       "testable": false
     },
